@@ -1,0 +1,229 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MainMenu.unity
+    guid: 2fecb17abf6496a4f9a0676bf5ba7f89
+  - enabled: 1
+    path: Assets/BuildScenes/Ground1.unity
+    guid: cd2ce9254b4bbe94c85a11dfaaa20cd4
+  - enabled: 1
+    path: Assets/BuildScenes/Upgrade1.unity
+    guid: e23d636146860db49a83389efca0355a
+  - enabled: 1
+    path: Assets/Scenes/Ground2.unity
+    guid: 7a37ae6fc5a491548bc53375d3d4a7f1
+  - enabled: 1
+    path: Assets/BuildScenes/Ground3.unity
+    guid: 275dc5317debb4349baa4d647e58a97e
+  - enabled: 1
+    path: Assets/BuildScenes/Ground4.unity
+    guid: 34a3c9e8e7e3bcb43a66866cfc56dc15
+  - enabled: 1
+    path: Assets/BuildScenes/World0.unity
+    guid: 22624a8d12afda8438c7bc092e23ede9
+  - enabled: 1
+    path: Assets/BuildScenes/SkyCity1.unity
+    guid: 02131acbdaf6e8c41873831a0c13d400
+  - enabled: 1
+    path: Assets/BuildScenes/SkyCity2.unity
+    guid: 61d9e96759897e946a920cb2e3fe0635
+  - enabled: 1
+    path: Assets/BuildScenes/SkyCity3.unity
+    guid: c78dee3f103624f4988b5b9bb8f2f185
+  - enabled: 1
+    path: Assets/BuildScenes/SkyCity4.unity
+    guid: 8032cbbca01fad74590738e5f85efe8a
+  - enabled: 1
+    path: Assets/BuildScenes/SkyCityBoss.unity
+    guid: dc773cd8ffcf33045b3a53ab20b8bc5c
+  - enabled: 1
+    path: Assets/BuildScenes/Upgrade2.unity
+    guid: e1f8379435ff7f84bbaec17c0dca03d4
+  - enabled: 1
+    path: Assets/BuildScenes/World1.unity
+    guid: 61d9e4fba0e21e043b9e82d754ec0df6
+  - enabled: 1
+    path: Assets/BuildScenes/SkyGrass1.unity
+    guid: 507a94c914ba8d84eb6820dcde8fc18e
+  - enabled: 1
+    path: Assets/BuildScenes/SkyGrass3.unity
+    guid: 83b2a1359915530489133f7ae2d1c1a3
+  - enabled: 1
+    path: Assets/BuildScenes/SkyGrass2.unity
+    guid: e5dd07caea6ccdb498609d1bbdcf2d6f
+  - enabled: 1
+    path: Assets/BuildScenes/World2.unity
+    guid: 9ca8a01e08260cb44a1911ce329661c7
+  - enabled: 1
+    path: Assets/BuildScenes/Snow1.unity
+    guid: 0e2921f838eb9d44b9d95cfd11dae3c6
+  - enabled: 1
+    path: Assets/BuildScenes/Snow2.unity
+    guid: fcc3bd24ef01e3b47b07714b05d0dedb
+  - enabled: 1
+    path: Assets/BuildScenes/Snow3.unity
+    guid: 895d0581e168d1947a847655972de90b
+  - enabled: 1
+    path: Assets/Scenes/PlacedLevels/Snow4.unity
+    guid: 3ea39995e543957429705e8d678af2c2
+  - enabled: 1
+    path: Assets/BuildScenes/Snow5.unity
+    guid: 9a89de439e10680468faac4d066b9698
+  - enabled: 1
+    path: Assets/BuildScenes/Snow6.unity
+    guid: a265f4a2a3ed00d4bb5818dbf6cd7a4f
+  - enabled: 1
+    path: Assets/BuildScenes/World3.unity
+    guid: 6c1e84096818c9848a16a019f66b1d3b
+  - enabled: 1
+    path: Assets/BuildScenes/Storm2.unity
+    guid: 29402bdd424dd4640a342de8d7baf317
+  - enabled: 1
+    path: Assets/BuildScenes/Storm3.unity
+    guid: 657f2c5055f3de44cab4b5a6f63a7862
+  - enabled: 1
+    path: Assets/BuildScenes/Storm4.unity
+    guid: f3c662032d149c542a6d4de0fe1a667f
+  - enabled: 1
+    path: Assets/BuildScenes/StormBoss.unity
+    guid: f893b7607efbcc044b8a49718688f00c
+  - enabled: 1
+    path: Assets/BuildScenes/World3.5.unity
+    guid: c4d7fab3b07f0b6419c2ea9642849d57
+  - enabled: 1
+    path: Assets/BuildScenes/Castle2.unity
+    guid: e9ec9ec4f58f24847b3232f3118ca576
+  - enabled: 1
+    path: Assets/BuildScenes/Castle1.unity
+    guid: 214295d4b7a7ca547bb699d06858995b
+  - enabled: 1
+    path: Assets/BuildScenes/CastleElev.unity
+    guid: cc062fe881ee4e743a5d6dca3542e664
+  - enabled: 1
+    path: Assets/BuildScenes/castleSuit.unity
+    guid: 120938e53a3bbb44bb0bc6a73a98e361
+  - enabled: 1
+    path: Assets/BuildScenes/upgrade.unity
+    guid: 7daeaf159436d9c47bd524ef9bc2fa87
+  - enabled: 1
+    path: Assets/BuildScenes/Castle3.unity
+    guid: 617f474eb2a26d54b9ccf7aea2bc2c77
+  - enabled: 1
+    path: Assets/BuildScenes/Storm5.unity
+    guid: 56940ba6279472d4498f2baf65cff027
+  - enabled: 1
+    path: Assets/BuildScenes/World4.unity
+    guid: 12b162e84c4b1d342bc7666d0bd40af7
+  - enabled: 1
+    path: Assets/BuildScenes/FireWorld1.unity
+    guid: 35d9e4e69d8098c4c9b11bf881b71984
+  - enabled: 1
+    path: Assets/BuildScenes/FireWorld2.unity
+    guid: 7ed61e30142e3704f8cda528640c22be
+  - enabled: 1
+    path: Assets/BuildScenes/FireWorld3.unity
+    guid: 25f64e64e6d5fe148920a0d9533bb50d
+  - enabled: 1
+    path: Assets/BuildScenes/FireWorld3.5.unity
+    guid: abd5fa26d9250ef43873a2d5f878ee1b
+  - enabled: 1
+    path: Assets/BuildScenes/World5.unity
+    guid: 9febcdd6ee78f7c4187d9efcaa298d5d
+  - enabled: 1
+    path: Assets/BuildScenes/FireWorld4.unity
+    guid: 7b2a7ad086c79654d9ffa74b2145858d
+  - enabled: 1
+    path: Assets/BuildScenes/Cave1.unity
+    guid: dcad32622779a0b4487268463faf5d7b
+  - enabled: 1
+    path: Assets/BuildScenes/Cave2.unity
+    guid: 0438d29bb1bf0224bbab572ec1c4e865
+  - enabled: 1
+    path: Assets/BuildScenes/CaveBoss.unity
+    guid: 97505428706fda640a4437900be34608
+  - enabled: 1
+    path: Assets/BuildScenes/World5.5.unity
+    guid: d46bbc5ad2ec6d84290a928078f3d8b8
+  - enabled: 1
+    path: Assets/BuildScenes/Cave3.unity
+    guid: 20dcabcc0b4b10749ae0ea01cc60b6d2
+  - enabled: 1
+    path: Assets/BuildScenes/Cave4.unity
+    guid: 7e69e63ac628f224ea7852758e0a69de
+  - enabled: 1
+    path: Assets/BuildScenes/Cave5.unity
+    guid: 8b5fd5b47fb27754494210badb2c82df
+  - enabled: 1
+    path: Assets/BuildScenes/Cave6.unity
+    guid: 7ba68198fa333b547a19480325a1a355
+  - enabled: 1
+    path: Assets/BuildScenes/World6.unity
+    guid: d3f6dc11d0855f847a7a79f716c8b4c2
+  - enabled: 1
+    path: Assets/Scenes/PlacedLevels/Factory0.unity
+    guid: 1de3a2b5f44aa8347857bb05d670549e
+  - enabled: 1
+    path: Assets/BuildScenes/Factory1.unity
+    guid: 3c95454f6bb4fd74bb5e73625a35f291
+  - enabled: 1
+    path: Assets/BuildScenes/Factory2Real.unity
+    guid: 7b631757643872249b0d2bda30fc176d
+  - enabled: 1
+    path: Assets/BuildScenes/Factory3.unity
+    guid: ff9f1231e1b6d014ebefe50bc4fc2f51
+  - enabled: 1
+    path: Assets/BuildScenes/World7.unity
+    guid: c94f98cdac29d65499c339dbebdde6d9
+  - enabled: 1
+    path: Assets/BuildScenes/Space1.unity
+    guid: eb5aa23a8e25d474a83830c4c86c4ed6
+  - enabled: 1
+    path: Assets/BuildScenes/Space2.unity
+    guid: 0072a24d4d564f640aaab7c20e9fe98d
+  - enabled: 1
+    path: Assets/BuildScenes/Space3.unity
+    guid: a65a375b5df72094590e7c82715f7f85
+  - enabled: 1
+    path: Assets/BuildScenes/Space4.unity
+    guid: 3841655438025d643aeeb7867e3907c4
+  - enabled: 1
+    path: Assets/BuildScenes/bossCutScene.unity
+    guid: 3b97c8c9710cf6146b23379dbc2baff2
+  - enabled: 1
+    path: Assets/BuildScenes/BossFight.unity
+    guid: 1901ea926fddbbc4088a64f7c3ed7eaf
+  - enabled: 1
+    path: Assets/BuildScenes/Credits.unity
+    guid: ea52349e94355514e9b25b39fe2b9c92
+  - enabled: 1
+    path: Assets/BuildScenes/DogRoom.unity
+    guid: 89727716cca2d654c911d7f41a9b0e08
+  - enabled: 1
+    path: Assets/BuildScenes/GhostHouse.unity
+    guid: 9f1b82aebeee9e54da9ab294e0199e16
+  - enabled: 1
+    path: Assets/BuildScenes/PreCredits.unity
+    guid: 9dfd4984b785b1341a838e30f2652f6c
+  - enabled: 1
+    path: Assets/BuildScenes/otherMenu.unity
+    guid: 7aa6c7dfcea9c194cb130613bea96fab
+  - enabled: 1
+    path: Assets/BuildScenes/CustomMap.unity
+    guid: 5e77806f3adc40d498c391bd520b762b
+  - enabled: 1
+    path: Assets/BuildScenes/LoadMapSave.unity
+    guid: 33e79e11b25677e46a53c56ba85c0247
+  - enabled: 1
+    path: Assets/Loading.unity
+    guid: 0e5a012ef4d643145a0e8dbc4800711e
+  - enabled: 1
+    path: Assets/BuildScenes/HeavyRecoil.unity
+    guid: faed4eb52aea5e1428c6a09975b6c003
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 4581e4d69787f52489d0be0834e77091,
+      type: 2}
